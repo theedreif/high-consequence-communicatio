@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this doctrine or its field tools, please cite this repository."
+title: "High-Consequence Communication"
+type: software
+authors:
+  - family-names: "Reif"
+    given-names: "Ed"
+    alias: "theedreif"
+abstract: "Doctrine and field tools for closing The Gap between what is said, heard, understood, acted upon, and verified in high-consequence environments."
+keywords:
+  - high-consequence-communication
+  - operational-readiness
+  - human-performance
+  - judgment-under-uncertainty
+  - autonomous-systems
+  - field-learning
+repository-code: "https://github.com/theedreif/high-consequence-communicatio"
+url: "https://github.com/theedreif/high-consequence-communicatio"
+license: "All rights reserved"
