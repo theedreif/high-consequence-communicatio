@@ -95,3 +95,12 @@ PREPARE → SCALE → OPERATE → COMMUNICATE → PROVE
 **Ed Reif** — author, operational readiness architect, instructional systems designer, and decision-science practitioner.
 
 > **The machine calculates. The operator decides. Communication keeps both attached to reality.**
+
+
+---
+
+## Field System Field Card
+
+**Seven Doors. Core operating loops. Field instruments. Evidence ladder.**
+
+[Download the Ed Reif Field System Field Card](https://github.com/theedreif/theedreif/blob/main/assets/field-system/Ed-Reif-Field-System-Field-Card.pdf) — the portable reference for the complete Field System.
