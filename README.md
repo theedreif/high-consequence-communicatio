@@ -2,6 +2,14 @@
 
 **Communication architecture for environments where ambiguity has consequences.**
 
+
+> **ED REIF FIELD SYSTEM — SEVEN DOORS**  
+> [BUILD · Operational Readiness](https://github.com/theedreif/operational-readiness) → [DECIDE · Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [POSITION · Decision Science](https://github.com/theedreif/decision-science) → [COMMUNICATE · High-Consequence Communication](https://github.com/theedreif/high-consequence-communication) → [PROVE · Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab) → [UPDATE · Field Notes](https://github.com/theedreif/field-notes) → [DEPLOY · ORaaS](https://github.com/theedreif/oraas)  
+> **BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**  
+> *One Body of Work. Seven Doors In.*
+
+---
+
 > **Close The Gap.**
 
 **The Gap** is the dangerous distance between what was said and what was actually understood. In operational systems, the full chain is:
